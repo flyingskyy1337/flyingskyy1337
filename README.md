@@ -11,7 +11,7 @@
     <hr>
     <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>NOTHING</strong><br>
-    - 🌱 I’m currently learning <strong>Javascript/strong><br>
+    - 🌱 I’m currently learning <strong>Javascript</strong><br>
     - 📫 Contact me <strong>on Discord at Flyingskyy#1224</strong><br>
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
